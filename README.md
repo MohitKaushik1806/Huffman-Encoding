@@ -1,7 +1,7 @@
 # Huffman Text Encrypter
 Designed a technique for encrypting data using C++ with the help of Huffman’s 
 Algorithm. Reads the data from file in system and Command Line Interface displays the 
-encoded strings.
+encoded strings. It takes your text file as input.
 
 ## What is huffman encoding?
 Huffman enoding is an approach to text compression. In computer science and information theory, it is
